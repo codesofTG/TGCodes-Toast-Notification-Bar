@@ -15,6 +15,7 @@ TG Codes💛 - Toast Notification Bar/ Snack Bar
 
 Live Demo:
 
+    https://codesoftg.github.io/TGCodes-Toast-Notification-Bar/
     
 ## Getting Started
 
